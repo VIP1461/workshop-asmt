@@ -1,0 +1,8 @@
+git status
+git commit -m "add first details"
+git status
+git remote add origin git@github.com:VIP1461/workshop-asmt.git
+git branch -M main
+git push origin main
+
+
